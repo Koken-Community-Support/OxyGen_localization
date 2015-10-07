@@ -1,0 +1,332 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-09-27 13:23+0200\n"
+"PO-Revision-Date: 2015-10-07 23:29+0200\n"
+"Last-Translator: Bjarne Varöystrand <black.skorpio+github@gmail.com>\n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: album.php:15 content.php:12 contents.php:18 favorites.php:15 timeline.php:56
+#: timeline.php:68 timeline.php:46 inc/components/cat-tag-event-layout.html:38
+msgid "View"
+msgstr ""
+
+#: album.php:35 tag.php:24
+msgid "No album data found"
+msgstr "Kein Fotoalbum gefunden"
+
+#: albums.php:8 sets.php:8 timeline.php:21 timeline.php:30 timeline.php:83
+#: inc/components/cat-tag-event-layout.html:5
+#: inc/components/cat-tag-event-layout.html:16
+#: inc/components/cat-tag-event-layout.html:24
+msgid "View the"
+msgstr "Ansicht der"
+
+#: albums.php:19 set.php:30 sets.php:16
+msgid "No public albums found"
+msgstr "Keine öffentlichen Alben gefunden"
+
+#: categories.php:5
+msgid "Browse by"
+msgstr "Suchen nach..."
+
+#: categories.php:15
+msgid "Browse everything in"
+msgstr "Stöbern Sie alles in"
+
+#: categories.php:26 tags.php:26
+msgid "No tags found."
+msgstr "Keine Tags gefunden."
+
+#: category.php:7 tag.php:4 tag.php:10
+msgid "Browsing"
+msgstr "Browsing"
+
+#: content.php:44
+msgid "No image or video found"
+msgstr "Kein Bild oder Video gefunden"
+
+#: contnents.php:34
+msgid "No images or video found"
+msgstr "Keine Bilder oder Video gefunden"
+
+#: error.php:
+msgid "Error:"
+msgstr "Fehler:"
+
+msgid "Please head back to the"
+msgstr "Bitte Kopf zurück zu der"
+
+msgid "front page"
+msgstr "Startseite"
+
+#: error.php:17
+msgid "You are trying to access a page your not allowed to: shame on you!"
+msgstr "Sie versuchen auf eine Seite zuzugreifen, Ihr nicht erlaubt: schäm dich!"
+
+#: error.php:22
+msgid "Page not found."
+msgstr "Pagina niet gevonden"
+
+#: error.php:27
+msgid "Method Not Allowed."
+msgstr "Angeforderte Methode nicht erlaubt."
+
+#: error.php:32
+msgid "Not Acceptable."
+msgstr "Nicht akzeptabel."
+
+#: error.php:37
+msgid "Proxy Authentication Required."
+msgstr "Proxyauthentifizierung erforderlich."
+
+#: error.php:42
+msgid "Request Timeout."
+msgstr "Fordern Sie Timeout."
+
+#: error.php:47
+msgid "Conflict."
+msgstr "Konflikte."
+
+#: error.php:52
+msgid "Gone."
+msgstr "Gegangen."
+
+#: error.php:57
+msgid "Unsuppored Media Type."
+msgstr "Unsuppored-Medientyp."
+
+#: error.php:62
+msgid "Requested Range Not Satisfiable."
+msgstr "Bat Bereich nicht eingehalten werden."
+
+#: error.php:67
+msgid "Expectation Failed."
+msgstr "Erwartung ist fehlgeschlagen."
+
+#: error.php:72
+msgid "I'm a teapot."
+msgstr "Ich bin eine Teekanne."
+
+#: error.php:77
+msgid "No Response.<br />In The Age Of Social No Response Is Not An Option."
+msgstr "Keine Antwort.<br>Im Zeitalter der Social ist keine Antwort keine Option."
+
+#: error.php:82
+msgid "Internal Server Error."
+msgstr "Interner Serverfehler"
+
+#: error.php:87
+msgid "Not Implemented."
+msgstr "Nicht realisiert"
+
+msgid "The server either does not recognize the request method, or it lacks the ability to fulfil the request."
+msgstr "Der Server erkennt entweder nicht die Anforderungsmethode, oder es fehlt die Möglichkeit, die Anforderung zu erfüllen."
+
+#: error.php:92
+msgid "Bad Gateway."
+msgstr "Fehlerhaftes Gateway"
+
+#: error.php:97
+msgid "Service Unavailable."
+msgstr "Service nicht verfügbar"
+
+msgid "The server is currently unavailable (because it is overloaded or down for maintenance). Generally, this is a temporary state."
+msgstr "Der Server ist derzeit nicht verfügbar (weil es ist überlastet oder Wartungszwecken down). Im Allgemeinen ist dies ein vorübergehender Zustand."
+
+#: essay.php:27
+msgid "No published essay found"
+msgstr "Keine veröffentlichten Essay gefunden"
+
+#: essays.php:9 essays.php:14
+msgid "View:"
+msgstr "Ansicht:"
+
+msgid "No published essays found"
+msgstr "Keine veröffentlichten Aufsätze gefunden"
+
+#: favorites.php:30
+msgid "No images or videos found"
+msgstr "Keine Bilder oder Videos gefunden"
+
+#: index.php: lightbox.php: login.php:13
+msgid "Enter password"
+msgstr "Passwort eingeben"
+
+msgid "Go"
+msgstr "Gehn"
+
+#: map.php:63
+msgid "See the picture"
+msgstr "Siehe Bild"
+
+#: page.php:15
+msgid "No page found"
+msgstr "Pagina niet gevonden"
+
+#: tags.php:15 inc/components/tags-cats-loop.html:20
+msgid "View everything in"
+msgstr "Alles anzeigen"
+
+#: timeline.php:50 timeline.php:60
+msgid "new items"
+msgstr "Neue Einträge"
+
+#: timeline.php:99
+msgid "No timeline data found."
+msgstr "Keine Timeline-Daten gefunden."
+
+#: inc/components/album_cover.html:10 inc/components/album_cover_text.html:8
+msgid " / In"
+msgstr " / In"
+
+#: inc/components/footer.html:65 inc/components/footer_tiny.html:45
+msgid "on Facebook"
+msgstr "auf Facebook"
+
+#: inc/components/footer.html:67 inc/components/footer_tiny.html:47
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/components/footer.html:73
+msgid "on Instragram"
+msgstr "auf Instragram"
+
+#: inc/components/footer.html:75
+msgid "Instragram"
+msgstr "Instragram"
+
+#: inc/components/footer.html:82 inc/components/footer_tiny.html:61
+msgid "on Google+"
+msgstr "auf Google+"
+
+#: inc/components/footer.html:84 inc/components/footer_tiny.html:63
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/components/footer.html:90
+msgid "on 500px"
+msgstr "auf 500px"
+
+#: inc/components/footer.html:92
+msgid "500px"
+msgstr "500px"
+
+#: inc/components/footer.html:99 inc/components/footer_tiny.html:53
+msgid "on Twitter"
+msgstr "auf Twitter"
+
+#: inc/components/footer.html:101 inc/components/footer_tiny.html:55
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/components/footer.html:107
+msgid "on Pinterest"
+msgstr "auf Pinterest"
+
+#: inc/components/footer.html:109
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/components/footer.html:122
+msgid "image feed"
+msgstr "Bild-feed"
+
+#: inc/components/loading_msg.html:4
+msgid "Loading..."
+msgstr "Lade..."
+
+#: inc/components/next-prev.html:3
+msgid "[<-] Previous"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+#: inc/components/next-prev.html:8
+msgid "Next [->]"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+#: inc/components/picinfo.html:6
+msgid "View images with:"
+msgstr "Bilder anschauen"
+
+#: inc/components/picinfo.html:12
+msgid "Camera info"
+msgstr "Kamera-info"
+
+#: inc/components/picinfo.html:26
+msgid "Caption"
+msgstr "Beschreibung"
+
+#: inc/components/picinfo.html:31
+msgid "Image info"
+msgstr "Bildinfo"
+
+#: inc/components/picinfo.html:33
+msgid "Name:"
+msgstr "Name:"
+
+#: inc/components/picinfo.html:34
+msgid "Uploaded:"
+msgstr "Hochgeladen:"
+
+#: inc/components/picinfo.html:35
+msgid "Captured:"
+msgstr "Erfasst:"
+
+#: inc/components/picinfo.html:37
+msgid "Also in:"
+msgstr "También en:"
+
+#: inc/components/picinfo.html:39
+msgid "See more images from:"
+msgstr "weitere Galerie Bilder hochladen"
+
+#: inc/components/picinfo.html:45
+msgid "Photographer:"
+msgstr "Photographer:"
+
+#: inc/components/picinfo.html:48
+msgid "License:"
+msgstr "Lizenz:"
+
+#: inc/components/picinfo.html:50
+msgid "Download:"
+msgstr "Herunterladen:"
+
+#: inc/components/picinfo.html:50
+msgid "in"
+msgstr "in"
+
+#: inc/components/share.html:3
+msgid "Share this on Facebook"
+msgstr "Auf Facebook teilen"
+
+#: inc/components/share.html:6
+msgid "Tweet this!"
+msgstr "Twittern"
+
+#: inc/components/share.html:9
+msgid "Share on Tumblr!"
+msgstr "Auf Tumblr teilen"
+
+#: inc/components/share.html:12
+msgid "Share on Google Plus!"
+msgstr "Auf Google Plus teilen"
+
+#: inc/components/tags-cats-loop.html:9
+msgid "View everything tagged with"
+msgstr ""
