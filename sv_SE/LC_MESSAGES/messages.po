@@ -329,3 +329,7 @@ msgstr "Dela på Google Plus!"
 #: inc/components/tags-cats-loop.html:9
 msgid "View everything tagged with"
 msgstr "Visa allt taggade med"
+
+#: content.php:12
+msgid "in fullscreen [F]"
+msgstr "i helskärm [F]"

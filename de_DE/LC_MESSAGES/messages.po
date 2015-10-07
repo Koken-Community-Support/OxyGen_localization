@@ -330,3 +330,7 @@ msgstr "Auf Google Plus teilen"
 #: inc/components/tags-cats-loop.html:9
 msgid "View everything tagged with"
 msgstr ""
+
+#: content.php:12
+msgid "in fullscreen [F]"
+msgstr ""
