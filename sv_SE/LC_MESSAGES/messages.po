@@ -1,0 +1,331 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Koken Community Support\n"
+"POT-Creation-Date: 2015-09-27 13:23+0200\n"
+"PO-Revision-Date: 2015-10-04 15:34+0200\n"
+"Last-Translator: Bjarne Varöystrand <black.skorpio+github@gmail.com>\n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: album.php:15 content.php:12 contents.php:18 favorites.php:15 timeline.php:56
+#: timeline.php:68 timeline.php:46 inc/components/cat-tag-event-layout.html:38
+msgid "View"
+msgstr "Visa"
+
+#: album.php:35 tag.php:24
+msgid "No album data found"
+msgstr "Inget album hittades"
+
+#: albums.php:8 sets.php:8 timeline.php:21 timeline.php:30 timeline.php:83
+#: inc/components/cat-tag-event-layout.html:5
+#: inc/components/cat-tag-event-layout.html:16
+#: inc/components/cat-tag-event-layout.html:24
+msgid "View the"
+msgstr "Visa"
+
+#: albums.php:19 set.php:30 sets.php:16
+msgid "No public albums found"
+msgstr "Inget album hittades"
+
+#: categories.php:5
+msgid "Browse by"
+msgstr "Bläddra"
+
+#: categories.php:15
+msgid "Browse everything in"
+msgstr "Visa allt i"
+
+#: categories.php:26 tags.php:26
+msgid "No tags found."
+msgstr "Inga etiketter hittades."
+
+#: category.php:7 tag.php:4 tag.php:10
+msgid "Browsing"
+msgstr "Visar"
+
+#: content.php:44
+msgid "No image or video found"
+msgstr "Varken bild eller video hittades"
+
+#: contnents.php:34
+msgid "No images or video found"
+msgstr "Hittade inga bilder"
+
+#: error.php:
+msgid "Error:"
+msgstr "Fel inträffade"
+
+msgid "Please head back to the"
+msgstr "Vänligen gå tillbaka till"
+
+msgid "front page"
+msgstr "Startsidan"
+
+#: error.php:17
+msgid "You are trying to access a page your not allowed to: shame on you!"
+msgstr "Du försöker komma åt en sida du inte tillåtet att: du borde skämmas!"
+
+#: error.php:22
+msgid "Page not found."
+msgstr "Sidan hittas ej"
+
+#: error.php:27
+msgid "Method Not Allowed."
+msgstr "Metod inte tillåten."
+
+#: error.php:32
+msgid "Not Acceptable."
+msgstr "Inte acceptabelt."
+
+#: error.php:37
+msgid "Proxy Authentication Required."
+msgstr "Proxy-autentisering krävs."
+
+#: error.php:42
+msgid "Request Timeout."
+msgstr "Tidsgräns:"
+
+#: error.php:47
+msgid "Conflict."
+msgstr "Konflikt."
+
+#: error.php:52
+msgid "Gone."
+msgstr "Borta"
+
+#: error.php:57
+msgid "Unsuppored Media Type."
+msgstr "Unsuppored Media Type."
+
+#: error.php:62
+msgid "Requested Range Not Satisfiable."
+msgstr "Requested Range Not Satisfiable."
+
+#: error.php:67
+msgid "Expectation Failed."
+msgstr "Förväntad HTTP-data felaktig"
+
+#: error.php:72
+msgid "I'm a teapot."
+msgstr "Jag är en tekanna."
+
+#: error.php:77
+msgid "No Response.<br />In The Age Of Social No Response Is Not An Option."
+msgstr "Inget svar. <br /> I den här sociala tidsåldern så är detta inte ett alternativ!"
+
+#: error.php:82
+msgid "Internal Server Error."
+msgstr "Internt serverfel."
+
+#: error.php:87
+msgid "Not Implemented."
+msgstr "Inte implementerat ännu."
+
+msgid "The server either does not recognize the request method, or it lacks the ability to fulfil the request."
+msgstr "Servern kände inte igen datatypen"
+
+#: error.php:92
+msgid "Bad Gateway."
+msgstr "Bad Gateway."
+
+#: error.php:97
+msgid "Service Unavailable."
+msgstr "Tjänsten är inte tillgänglig"
+
+msgid "The server is currently unavailable (because it is overloaded or down for maintenance). Generally, this is a temporary state."
+msgstr "Servern är inte tillgänglig för tillfället (eftersom det är överbelastad eller nere för underhåll). I allmänhet är detta ett tillfälligt tillstånd."
+
+#: essay.php:27
+msgid "No published essay found"
+msgstr "Inga publicerade artiklar hittades"
+
+#: essays.php:9 essays.php:14
+msgid "View:"
+msgstr "Visa:"
+
+msgid "No published essays found"
+msgstr "Inga publicerade artiklar hittades"
+
+#: favorites.php:30
+msgid "No images or videos found"
+msgstr "Inga bilder eller videoklipp hittades"
+
+#: index.php: lightbox.php: login.php:13
+msgid "Enter password"
+msgstr "Ange lösenord"
+
+msgid "Go"
+msgstr "Go"
+
+#: map.php:63
+msgid "See the picture"
+msgstr "Visa bilden"
+
+#: page.php:15
+msgid "No page found"
+msgstr "Ingen sida hittades"
+
+#: tags.php:15 inc/components/tags-cats-loop.html:20
+msgid "View everything in"
+msgstr "Visa allt"
+
+#: timeline.php:50 timeline.php:60
+msgid "new items"
+msgstr "nya objekt"
+
+#: timeline.php:99
+msgid "No timeline data found."
+msgstr "Inga tidslinje data hittades."
+
+#: inc/components/album_cover.html:10 inc/components/album_cover_text.html:8
+msgid " / In"
+msgstr " / I"
+
+#: inc/components/footer.html:65 inc/components/footer_tiny.html:45
+msgid "on Facebook"
+msgstr "på Facebook"
+
+#: inc/components/footer.html:67 inc/components/footer_tiny.html:47
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/components/footer.html:73
+msgid "on Instragram"
+msgstr "på Instragram"
+
+#: inc/components/footer.html:75
+msgid "Instragram"
+msgstr "Instragram"
+
+#: inc/components/footer.html:82 inc/components/footer_tiny.html:61
+msgid "on Google+"
+msgstr "på Google+"
+
+#: inc/components/footer.html:84 inc/components/footer_tiny.html:63
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/components/footer.html:90
+msgid "on 500px"
+msgstr "på 500px"
+
+#: inc/components/footer.html:92
+msgid "500px"
+msgstr "500px"
+
+#: inc/components/footer.html:99 inc/components/footer_tiny.html:53
+msgid "on Twitter"
+msgstr "på Twitter"
+
+#: inc/components/footer.html:101 inc/components/footer_tiny.html:55
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/components/footer.html:107
+msgid "on Pinterest"
+msgstr "på Pinterest"
+
+#: inc/components/footer.html:109
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/components/footer.html:122
+msgid "image feed"
+msgstr "bildflöde"
+
+#: inc/components/loading_msg.html:4
+msgid "Loading..."
+msgstr "Laddar..."
+
+#: inc/components/next-prev.html:3
+msgid "[<-] Previous"
+msgstr "[<-] Föregående"
+
+msgid "Previous"
+msgstr "Föregående"
+
+#: inc/components/next-prev.html:8
+msgid "Next [->]"
+msgstr "Nästa [->]"
+
+msgid "Next"
+msgstr "Nästa"
+
+#: inc/components/picinfo.html:6
+msgid "View images with:"
+msgstr "Visa bilder:"
+
+#: inc/components/picinfo.html:12
+msgid "Camera info"
+msgstr "Kamerainfo"
+
+#: inc/components/picinfo.html:26
+msgid "Caption"
+msgstr "Bildtext"
+
+#: inc/components/picinfo.html:31
+msgid "Image info"
+msgstr "Bildinfo"
+
+#: inc/components/picinfo.html:33
+msgid "Name:"
+msgstr "Namn:"
+
+#: inc/components/picinfo.html:34
+msgid "Uploaded:"
+msgstr "Uppladdad"
+
+#: inc/components/picinfo.html:35
+msgid "Captured:"
+msgstr "Fångad:"
+
+#: inc/components/picinfo.html:37
+msgid "Also in:"
+msgstr "Även i:"
+
+#: inc/components/picinfo.html:39
+msgid "See more images from:"
+msgstr "Se fler bilder från:"
+
+#: inc/components/picinfo.html:45
+msgid "Photographer:"
+msgstr "Fotograf:"
+
+#: inc/components/picinfo.html:48
+msgid "License:"
+msgstr "Licens:"
+
+#: inc/components/picinfo.html:50
+msgid "Download:"
+msgstr "Ladda ned:"
+
+#: inc/components/picinfo.html:50
+msgid "in"
+msgstr "i"
+
+#: inc/components/share.html:3
+msgid "Share this on Facebook"
+msgstr "Dela på Facebook"
+
+#: inc/components/share.html:6
+msgid "Tweet this!"
+msgstr "Twittra detta!"
+
+#: inc/components/share.html:9
+msgid "Share on Tumblr!"
+msgstr "Dela på Tumblr!"
+
+#: inc/components/share.html:12
+msgid "Share on Google Plus!"
+msgstr "Dela på Google Plus!"
+
+#: inc/components/tags-cats-loop.html:9
+msgid "View everything tagged with"
+msgstr "Visa allt taggade med"
