@@ -1,11 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2015-09-27 13:23+0200\n"
-"PO-Revision-Date: 2015-09-27 13:25+0200\n"
-"Last-Translator: \n"
+"POT-Creation-Date: 2015-10-08 00:36+0200\n"
+"PO-Revision-Date: 2015-10-08 00:47+0200\n"
 "Language-Team: \n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -13,320 +11,335 @@ msgstr ""
 "X-Poedit-Basepath: ../../..\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-KeywordsList: _\n"
+"Last-Translator: Bjarne Varöystrand <black.skorpio+github@gmail.com>\n"
+"Language: nb_NO\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: album.php:15 content.php:12 contents.php:18 favorites.php:15 timeline.php:56
 #: timeline.php:68 timeline.php:46 inc/components/cat-tag-event-layout.html:38
 msgid "View"
-msgstr ""
+msgstr "Vis"
 
 #: album.php:35 tag.php:24
 msgid "No album data found"
-msgstr ""
+msgstr "Ingen album data funnet"
 
 #: albums.php:8 sets.php:8 timeline.php:21 timeline.php:30 timeline.php:83
 #: inc/components/cat-tag-event-layout.html:5
 #: inc/components/cat-tag-event-layout.html:16
 #: inc/components/cat-tag-event-layout.html:24
 msgid "View the"
-msgstr ""
+msgstr "Vis"
 
 #: albums.php:19 set.php:30 sets.php:16
 msgid "No public albums found"
-msgstr ""
+msgstr "Ingen album ble funnet."
 
 #: categories.php:5
 msgid "Browse by"
-msgstr ""
+msgstr "Bla gjennom"
 
 #: categories.php:15
 msgid "Browse everything in"
-msgstr ""
+msgstr "Bla gjennom alt i"
 
 #: categories.php:26 tags.php:26
 msgid "No tags found."
-msgstr ""
+msgstr "Ingen tagger funnet."
 
 #: category.php:7 tag.php:4 tag.php:10
 msgid "Browsing"
-msgstr ""
+msgstr "Browsing"
 
 #: content.php:44
 msgid "No image or video found"
-msgstr ""
+msgstr "Ingen bilde eller video funnet"
 
 #: contnents.php:34
 msgid "No images or video found"
-msgstr ""
+msgstr "Ingen bilder eller video fant"
 
 #: error.php:
 msgid "Error:"
-msgstr ""
+msgstr "Feil:"
 
 msgid "Please head back to the"
-msgstr ""
+msgstr "Vennligst innom den"
 
 msgid "front page"
-msgstr ""
+msgstr "forsiden"
 
 #: error.php:17
 msgid "You are trying to access a page your not allowed to: shame on you!"
-msgstr ""
+msgstr "Du prøver å åpne en side ikke lov til å: skam deg!"
 
 #: error.php:22
 msgid "Page not found."
-msgstr ""
+msgstr "Siden finnes ikke."
 
 #: error.php:27
 msgid "Method Not Allowed."
-msgstr ""
+msgstr "Ikke tillatt metode."
 
 #: error.php:32
 msgid "Not Acceptable."
-msgstr ""
+msgstr "Ikke akseptabelt."
 
 #: error.php:37
 msgid "Proxy Authentication Required."
-msgstr ""
+msgstr "Proxy-godkjenning kreves."
 
 #: error.php:42
 msgid "Request Timeout."
-msgstr ""
+msgstr "Forespørselen ble tidsavbrutt."
 
 #: error.php:47
 msgid "Conflict."
-msgstr ""
+msgstr "Konflikter"
 
 #: error.php:52
 msgid "Gone."
-msgstr ""
+msgstr "Gone"
 
 #: error.php:57
 msgid "Unsuppored Media Type."
-msgstr ""
+msgstr "Unsuppored medietype."
 
 #: error.php:62
 msgid "Requested Range Not Satisfiable."
-msgstr ""
+msgstr "Om området ikke tilfredsstilles."
 
 #: error.php:67
 msgid "Expectation Failed."
-msgstr ""
+msgstr "Forventning mislyktes."
 
 #: error.php:72
 msgid "I'm a teapot."
-msgstr ""
+msgstr "Jeg er en tekanne."
 
 #: error.php:77
 msgid "No Response.<br />In The Age Of Social No Response Is Not An Option."
 msgstr ""
+"Ingen respons.<br>I en alder av sosialt er ingen svar ikke et alternativ."
 
 #: error.php:82
 msgid "Internal Server Error."
-msgstr ""
+msgstr "Intern serverfeil."
 
 #: error.php:87
 msgid "Not Implemented."
-msgstr ""
+msgstr "Ikke implementert"
 
-msgid "The server either does not recognize the request method, or it lacks the ability to fulfil the request."
+msgid ""
+"The server either does not recognize the request method, or it lacks the "
+"ability to fulfil the request."
 msgstr ""
+"Serveren gjenkjenner enten ikke forespørselsmetoden, eller det mangler evnen "
+"til å oppfylle forespørselen."
 
 #: error.php:92
 msgid "Bad Gateway."
-msgstr ""
+msgstr "Ugyldig Gateway."
 
 #: error.php:97
 msgid "Service Unavailable."
-msgstr ""
+msgstr "Tjeneste utilgjengelig."
 
-msgid "The server is currently unavailable (because it is overloaded or down for maintenance). Generally, this is a temporary state."
+msgid ""
+"The server is currently unavailable (because it is overloaded or down for "
+"maintenance). Generally, this is a temporary state."
 msgstr ""
+"Serveren er ikke tilgjengelig (fordi det er overbelastet eller nede for "
+"vedlikehold). Vanligvis er dette en midlertidig tilstand."
 
 #: essay.php:27
 msgid "No published essay found"
-msgstr ""
+msgstr "Ingen publiserte essay funnet"
 
 #: essays.php:9 essays.php:14
 msgid "View:"
-msgstr ""
+msgstr "Vis:"
 
 msgid "No published essays found"
-msgstr ""
+msgstr "Ingen publisert essays funnet"
 
 #: favorites.php:30
 msgid "No images or videos found"
-msgstr ""
+msgstr "Ingen bilder eller videoer som finnes"
 
 #: index.php: lightbox.php: login.php:13
 msgid "Enter password"
-msgstr ""
+msgstr "Skriv inn passord"
 
 msgid "Go"
-msgstr ""
+msgstr "Go"
 
 #: map.php:63
 msgid "See the picture"
-msgstr ""
+msgstr "Se bildet"
 
 #: page.php:15
 msgid "No page found"
-msgstr ""
+msgstr "Finner ikke siden"
 
 #: tags.php:15 inc/components/tags-cats-loop.html:20
 msgid "View everything in"
-msgstr ""
+msgstr "Vise alt i"
 
 #: timeline.php:50 timeline.php:60
 msgid "new items"
-msgstr ""
+msgstr "nye elementer"
 
 #: timeline.php:99
 msgid "No timeline data found."
-msgstr ""
+msgstr "Fant ingen tidslinjedata."
 
 #: inc/components/album_cover.html:10 inc/components/album_cover_text.html:8
 msgid " / In"
-msgstr ""
+msgstr " / I"
 
 #: inc/components/footer.html:65 inc/components/footer_tiny.html:45
 msgid "on Facebook"
-msgstr ""
+msgstr "på Facebook"
 
 #: inc/components/footer.html:67 inc/components/footer_tiny.html:47
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: inc/components/footer.html:73
 msgid "on Instragram"
-msgstr ""
+msgstr "på Instragram"
 
 #: inc/components/footer.html:75
 msgid "Instragram"
-msgstr ""
+msgstr "Instragram"
 
 #: inc/components/footer.html:82 inc/components/footer_tiny.html:61
 msgid "on Google+"
-msgstr ""
+msgstr "på Google+"
 
 #: inc/components/footer.html:84 inc/components/footer_tiny.html:63
 msgid "Google+"
-msgstr ""
+msgstr "Google+"
 
 #: inc/components/footer.html:90
 msgid "on 500px"
-msgstr ""
+msgstr "på 500px"
 
 #: inc/components/footer.html:92
 msgid "500px"
-msgstr ""
+msgstr "500px"
 
 #: inc/components/footer.html:99 inc/components/footer_tiny.html:53
 msgid "on Twitter"
-msgstr ""
+msgstr "på Twitter"
 
 #: inc/components/footer.html:101 inc/components/footer_tiny.html:55
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: inc/components/footer.html:107
 msgid "on Pinterest"
-msgstr ""
+msgstr "på Pinterest"
 
 #: inc/components/footer.html:109
 msgid "Pinterest"
-msgstr ""
+msgstr "Pinterest"
 
 #: inc/components/footer.html:122
 msgid "image feed"
-msgstr ""
+msgstr "bildet feed"
 
 #: inc/components/loading_msg.html:4
 msgid "Loading..."
-msgstr ""
+msgstr "Laster …"
 
 #: inc/components/next-prev.html:3
 msgid "[<-] Previous"
-msgstr ""
+msgstr "[<-] Forrige"
 
 msgid "Previous"
-msgstr ""
+msgstr "Forrige"
 
 #: inc/components/next-prev.html:8
 msgid "Next [->]"
-msgstr ""
+msgstr "Neste [->]"
 
 msgid "Next"
-msgstr ""
+msgstr "Neste"
 
 #: inc/components/picinfo.html:6
 msgid "View images with:"
-msgstr ""
+msgstr "Vise bilder med:"
 
 #: inc/components/picinfo.html:12
 msgid "Camera info"
-msgstr ""
+msgstr "Kameraet info"
 
 #: inc/components/picinfo.html:26
 msgid "Caption"
-msgstr ""
+msgstr "Bildetekst"
 
 #: inc/components/picinfo.html:31
 msgid "Image info"
-msgstr ""
+msgstr "Bildeinformasjon"
 
 #: inc/components/picinfo.html:33
 msgid "Name:"
-msgstr ""
+msgstr "Navn:"
 
 #: inc/components/picinfo.html:34
 msgid "Uploaded:"
-msgstr ""
+msgstr "Lastet opp:"
 
 #: inc/components/picinfo.html:35
 msgid "Captured:"
-msgstr ""
+msgstr "Fanget:"
 
 #: inc/components/picinfo.html:37
 msgid "Also in:"
-msgstr ""
+msgstr "Også i:"
 
 #: inc/components/picinfo.html:39
 msgid "See more images from:"
-msgstr ""
+msgstr "Se flere bilder: "
 
 #: inc/components/picinfo.html:45
 msgid "Photographer:"
-msgstr ""
+msgstr "Fotograf:"
 
 #: inc/components/picinfo.html:48
 msgid "License:"
-msgstr ""
+msgstr "Lisens:"
 
 #: inc/components/picinfo.html:50
 msgid "Download:"
-msgstr ""
+msgstr "Last Ned:"
 
 #: inc/components/picinfo.html:50
 msgid "in"
-msgstr ""
+msgstr "i"
 
 #: inc/components/share.html:3
 msgid "Share this on Facebook"
-msgstr ""
+msgstr "Del på Facebook"
 
 #: inc/components/share.html:6
 msgid "Tweet this!"
-msgstr ""
+msgstr "Tvitre dette"
 
 #: inc/components/share.html:9
 msgid "Share on Tumblr!"
-msgstr ""
+msgstr "Del på Tumblr"
 
 #: inc/components/share.html:12
 msgid "Share on Google Plus!"
-msgstr ""
+msgstr "Del på Google Plus"
 
 #: inc/components/tags-cats-loop.html:9
 msgid "View everything tagged with"
-msgstr ""
+msgstr "Vise alt merket med"
+
+#: content.php:12
+msgid "in fullscreen [F]"
+msgstr "i fullskjerm [F]"
