@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-09-27 13:23+0200\n"
-"PO-Revision-Date: 2015-10-07 23:29+0200\n"
+"PO-Revision-Date: 2015-10-08 12:16+0200\n"
 "Last-Translator: Bjarne Varöystrand <black.skorpio+github@gmail.com>\n"
 "Language-Team: \n"
 "Language: de_DE\n"
@@ -333,4 +333,28 @@ msgstr ""
 
 #: content.php:12
 msgid "in fullscreen [F]"
+msgstr ""
+
+#: lightbox.php:44
+msgid "Close"
+msgstr ""
+
+#: lightbox:44
+msgid "X"
+msgstr ""
+
+#: lightbox:51 lightbox:53
+msgid "Back [ESC]"
+msgstr ""
+
+#: lightbox.php:55
+msgid "Start slideshow"
+msgstr ""
+
+#: lightbox.php:59
+msgid "Pause"
+msgstr ""
+
+#: lightbox:71
+msgid "Share"
 msgstr ""

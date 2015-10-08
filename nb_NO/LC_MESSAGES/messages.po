@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-10-08 00:36+0200\n"
-"PO-Revision-Date: 2015-10-08 00:47+0200\n"
+"PO-Revision-Date: 2015-10-08 12:15+0200\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -343,3 +343,27 @@ msgstr "Vise alt merket med"
 #: content.php:12
 msgid "in fullscreen [F]"
 msgstr "i fullskjerm [F]"
+
+#: lightbox.php:44
+msgid "Close"
+msgstr "Lukk"
+
+#: lightbox:44
+msgid "X"
+msgstr "X"
+
+#: lightbox:51 lightbox:53
+msgid "Back [ESC]"
+msgstr "Tilbake [ESC]"
+
+#: lightbox.php:55
+msgid "Start slideshow"
+msgstr "Karusell"
+
+#: lightbox.php:59
+msgid "Pause"
+msgstr "Pause"
+
+#: lightbox:71
+msgid "Share"
+msgstr "Del"

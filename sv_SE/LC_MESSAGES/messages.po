@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Koken Community Support\n"
 "POT-Creation-Date: 2015-09-27 13:23+0200\n"
-"PO-Revision-Date: 2015-10-04 15:34+0200\n"
+"PO-Revision-Date: 2015-10-08 12:14+0200\n"
 "Last-Translator: Bjarne Varöystrand <black.skorpio+github@gmail.com>\n"
 "Language-Team: \n"
 "Language: sv_SE\n"
@@ -333,3 +333,27 @@ msgstr "Visa allt taggade med"
 #: content.php:12
 msgid "in fullscreen [F]"
 msgstr "i helskärm [F]"
+
+#: lightbox.php:44
+msgid "Close"
+msgstr ""
+
+#: lightbox:44
+msgid "X"
+msgstr "X"
+
+#: lightbox:51 lightbox:53
+msgid "Back [ESC]"
+msgstr "Återgå [ESC]"
+
+#: lightbox.php:55
+msgid "Start slideshow"
+msgstr "Starta bildspel"
+
+#: lightbox.php:59
+msgid "Pause"
+msgstr "Pausa"
+
+#: lightbox:71
+msgid "Share"
+msgstr "Dela"
