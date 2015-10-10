@@ -1,0 +1,370 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-10-11 00:15+0200\n"
+"PO-Revision-Date: 2015-10-11 00:34+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _\n"
+"Last-Translator: Grimur Gudmundsson <grimurnet@gmail.com>\n"
+"Language: is_IS\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: album.php:15 content.php:12 contents.php:18 favorites.php:15 timeline.php:56
+#: timeline.php:68 timeline.php:46 inc/components/cat-tag-event-layout.html:38
+msgid "View"
+msgstr "Skoða"
+
+#: album.php:35 tag.php:24
+msgid "No album data found"
+msgstr "Engin gögn fundust um þetta albúm"
+
+#: albums.php:8 sets.php:8 timeline.php:21 timeline.php:30 timeline.php:83
+#: inc/components/cat-tag-event-layout.html:5
+#: inc/components/cat-tag-event-layout.html:16
+#: inc/components/cat-tag-event-layout.html:24
+msgid "View the"
+msgstr "Skoða"
+
+#: albums.php:19 set.php:30 sets.php:16
+msgid "No public albums found"
+msgstr "Engin opinber albúm fundust"
+
+#: categories.php:5
+msgid "Browse by"
+msgstr "Leita eftir"
+
+#: categories.php:15
+msgid "Browse everything in"
+msgstr "Skoða allt í"
+
+#: categories.php:26 tags.php:26
+msgid "No tags found."
+msgstr "Engin tögg fundust"
+
+#: category.php:7 tag.php:4 tag.php:10
+msgid "Browsing"
+msgstr "Vafra"
+
+#: content.php:44
+msgid "No image or video found"
+msgstr "Engin mynd eða vídeó fannst"
+
+#: contnents.php:34
+msgid "No images or video found"
+msgstr "Engar myndir eða vídeó fundust"
+
+#: error.php:
+msgid "Error:"
+msgstr "Villa"
+
+msgid "Please head back to the"
+msgstr "Vinsamlegast farðu til baka í"
+
+msgid "front page"
+msgstr "forsíða"
+
+#: error.php:17
+msgid "You are trying to access a page your not allowed to: shame on you!"
+msgstr ""
+"Þú ert að reyna að fá aðgang að síðu sem þú ert ekki með leyfi til að skoða: "
+"Skammastu þín!"
+
+#: error.php:22
+msgid "Page not found."
+msgstr "Síða fannst ekki."
+
+#: error.php:27
+msgid "Method Not Allowed."
+msgstr "Aðgerð óheimil."
+
+#: error.php:32
+msgid "Not Acceptable."
+msgstr "Ekki aðgengileg."
+
+#: error.php:37
+msgid "Proxy Authentication Required."
+msgstr "Proxy auðkenning skilyrði."
+
+#: error.php:42
+msgid "Request Timeout."
+msgstr "Beiðni útrunnin."
+
+#: error.php:47
+msgid "Conflict."
+msgstr "Árekstur."
+
+#: error.php:52
+msgid "Gone."
+msgstr "Farin."
+
+#: error.php:57
+msgid "Unsuppored Media Type."
+msgstr "Óstudd efnistegund."
+
+#: error.php:62
+msgid "Requested Range Not Satisfiable."
+msgstr "Umbeðið tímabil er ófullnægjandi."
+
+#: error.php:67
+msgid "Expectation Failed."
+msgstr "Stóðst ekki væntingar."
+
+#: error.php:72
+msgid "I'm a teapot."
+msgstr "Ég er ketill."
+
+#: error.php:77
+msgid "No Response.<br />In The Age Of Social No Response Is Not An Option."
+msgstr "Ekkert svar. <br /> Í nútíma Social ekkert svar er ekki valkostur."
+
+#: error.php:82
+msgid "Internal Server Error."
+msgstr "Innri villa á þjóni."
+
+#: error.php:87
+msgid "Not Implemented."
+msgstr "Ekki innleitt"
+
+msgid ""
+"The server either does not recognize the request method, or it lacks the "
+"ability to fulfil the request."
+msgstr ""
+"Annaðhvort viðurkennir þjónninn ekki beiðnina, eða það skortir getu til að "
+"uppfylla beiðnina."
+
+#: error.php:92
+msgid "Bad Gateway."
+msgstr "Gateway Fatlaðir."
+
+#: error.php:97
+msgid "Service Unavailable."
+msgstr "Þjónusta ekki tiltæk."
+
+msgid ""
+"The server is currently unavailable (because it is overloaded or down for "
+"maintenance). Generally, this is a temporary state."
+msgstr ""
+"Í augnablikinu er þjónninn ekki tiltækur (vegna þess að það er of mikið álag "
+"eða vegna viðhalds). Venjuleg er þetta tímabundið ástand."
+
+#: essay.php:27
+msgid "No published essay found"
+msgstr "Engin birt ritgerð fannst"
+
+#: essays.php:9 essays.php:14
+msgid "View:"
+msgstr "Skoða:"
+
+msgid "No published essays found"
+msgstr "Engar ritgerðir fundust"
+
+#: favorites.php:30
+msgid "No images or videos found"
+msgstr "Engar myndir eða vídeó fundust"
+
+#: index.php: lightbox.php: login.php:13
+msgid "Enter password"
+msgstr "Fylltu inn lykilorð"
+
+msgid "Go"
+msgstr "Áfram"
+
+#: map.php:63
+msgid "See the picture"
+msgstr "Sjáðu myndina"
+
+#: page.php:15
+msgid "No page found"
+msgstr "Engin síða fannst"
+
+#: tags.php:15 inc/components/tags-cats-loop.html:20
+msgid "View everything in"
+msgstr "Skoðaðu allt í"
+
+#: timeline.php:50 timeline.php:60
+msgid "new items"
+msgstr "Ný atriði"
+
+#: timeline.php:99
+msgid "No timeline data found."
+msgstr "Engin gögn í tímalínu."
+
+#: inc/components/album_cover.html:10 inc/components/album_cover_text.html:8
+msgid " / In"
+msgstr " / Í"
+
+#: inc/components/footer.html:65 inc/components/footer_tiny.html:45
+msgid "on Facebook"
+msgstr "á Facebook"
+
+#: inc/components/footer.html:67 inc/components/footer_tiny.html:47
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/components/footer.html:73
+msgid "on Instragram"
+msgstr "á Instagram"
+
+#: inc/components/footer.html:75
+msgid "Instragram"
+msgstr "Instagram"
+
+#: inc/components/footer.html:82 inc/components/footer_tiny.html:61
+msgid "on Google+"
+msgstr "á Google+"
+
+#: inc/components/footer.html:84 inc/components/footer_tiny.html:63
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/components/footer.html:90
+msgid "on 500px"
+msgstr "á 500px"
+
+#: inc/components/footer.html:92
+msgid "500px"
+msgstr "500px"
+
+#: inc/components/footer.html:99 inc/components/footer_tiny.html:53
+msgid "on Twitter"
+msgstr "á Twitter"
+
+#: inc/components/footer.html:101 inc/components/footer_tiny.html:55
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/components/footer.html:107
+msgid "on Pinterest"
+msgstr "á Pinterest"
+
+#: inc/components/footer.html:109
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/components/footer.html:122
+msgid "image feed"
+msgstr ""
+
+#: inc/components/loading_msg.html:4
+msgid "Loading..."
+msgstr "Hleður..."
+
+#: inc/components/next-prev.html:3
+msgid "[<-] Previous"
+msgstr "[<-] Fyrri"
+
+msgid "Previous"
+msgstr "Fyrri"
+
+#: inc/components/next-prev.html:8
+msgid "Next [->]"
+msgstr "Næst [->]"
+
+msgid "Next"
+msgstr "Næst"
+
+#: inc/components/picinfo.html:6
+msgid "View images with:"
+msgstr "Skoðaðu myndirnar með:"
+
+#: inc/components/picinfo.html:12
+msgid "Camera info"
+msgstr "Myndavéla upplýsingar"
+
+#: inc/components/picinfo.html:26
+msgid "Caption"
+msgstr "Texti"
+
+#: inc/components/picinfo.html:31
+msgid "Image info"
+msgstr "Upplýsingar um mynd"
+
+#: inc/components/picinfo.html:33
+msgid "Name:"
+msgstr "Nafn:"
+
+#: inc/components/picinfo.html:34
+msgid "Uploaded:"
+msgstr "Upphalað:"
+
+#: inc/components/picinfo.html:35
+msgid "Captured:"
+msgstr "Mynd tekin:"
+
+#: inc/components/picinfo.html:37
+msgid "Also in:"
+msgstr "Einnig í:"
+
+#: inc/components/picinfo.html:39
+msgid "See more images from:"
+msgstr "Sjáðu fleirri myndir frá:"
+
+#: inc/components/picinfo.html:45
+msgid "Photographer:"
+msgstr "Ljósmyndari:"
+
+#: inc/components/picinfo.html:48
+msgid "License:"
+msgstr "Leyfi:"
+
+#: inc/components/picinfo.html:50
+msgid "Download:"
+msgstr "Niðurhala:"
+
+#: inc/components/picinfo.html:50
+msgid "in"
+msgstr "í"
+
+#: inc/components/share.html:3
+msgid "Share this on Facebook"
+msgstr "Deildu þessu á Facebook"
+
+#: inc/components/share.html:6
+msgid "Tweet this!"
+msgstr "Tvítaðu þetta!"
+
+#: inc/components/share.html:9
+msgid "Share on Tumblr!"
+msgstr "Deildu æa Tumblr!"
+
+#: inc/components/share.html:12
+msgid "Share on Google Plus!"
+msgstr "Deildu æa Google Plus!"
+
+#: inc/components/tags-cats-loop.html:9
+msgid "View everything tagged with"
+msgstr "Skoðaðu allt taggað með"
+
+#: content.php:12
+msgid "in fullscreen [F]"
+msgstr "í fullri stærð [F]"
+
+#: lightbox.php:44
+msgid "Close"
+msgstr "Loka"
+
+#: lightbox:44
+msgid "X"
+msgstr "X"
+
+#: lightbox:51 lightbox:53
+msgid "Back [ESC]"
+msgstr "Tilbaka [ESC]"
+
+#: lightbox.php:55
+msgid "Start slideshow"
+msgstr "Hefja myndasýningu"
+
+#: lightbox.php:59
+msgid "Pause"
+msgstr "Pása"
+
+#: lightbox:71
+msgid "Share"
+msgstr "Deila"
