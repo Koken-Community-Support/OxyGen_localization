@@ -1,0 +1,366 @@
+#
+# Translators:
+# Sylvain <github@eax.fr>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: OxyGen\n"
+"POT-Creation-Date: 2015-09-27 13:23+0200\n"
+"PO-Revision-Date: 2015-10-10 15:29+0200\n"
+"Last-Translator: Bjarne Varöystrand <black.skorpio+github@gmail.com>\n"
+"Language-Team: French (France) (http://www.transifex.com/koken-community-support/OxyGen_localization/"
+"language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: album.php:15 content.php:12 contents.php:18 favorites.php:15 timeline.php:56 timeline.php:68
+#: timeline.php:46 inc/components/cat-tag-event-layout.html:38
+msgid "View"
+msgstr "Voir"
+
+#: album.php:35 tag.php:24
+msgid "No album data found"
+msgstr "Aucune information trouvée sur l'album"
+
+#: albums.php:8 sets.php:8 timeline.php:21 timeline.php:30 timeline.php:83
+#: inc/components/cat-tag-event-layout.html:5 inc/components/cat-tag-event-layout.html:16
+#: inc/components/cat-tag-event-layout.html:24
+msgid "View the"
+msgstr "Voir "
+
+#: albums.php:19 set.php:30 sets.php:16
+msgid "No public albums found"
+msgstr "Aucun  album public trouvé"
+
+#: categories.php:5
+msgid "Browse by"
+msgstr "Parcourir par"
+
+#: categories.php:15
+msgid "Browse everything in"
+msgstr "Parcourir dans"
+
+#: categories.php:26 tags.php:26
+msgid "No tags found."
+msgstr "Aucun tag trouvé."
+
+#: category.php:7 tag.php:4 tag.php:10
+msgid "Browsing"
+msgstr "Parcourir"
+
+#: content.php:44
+msgid "No image or video found"
+msgstr "Aucune image ni vidéo"
+
+#: contnents.php:34
+msgid "No images or video found"
+msgstr "Aucune image ni vidéo"
+
+#: error.php
+msgid "Error:"
+msgstr "Erreur:"
+
+msgid "Please head back to the"
+msgstr "Retourner vers le"
+
+msgid "front page"
+msgstr "page d'accueil"
+
+#: error.php:17
+msgid "You are trying to access a page your not allowed to: shame on you!"
+msgstr "Vous essayer d’accéder une page sans être autorisé: honte à vous!"
+
+#: error.php:22
+msgid "Page not found."
+msgstr "Page non trouvée."
+
+#: error.php:27
+msgid "Method Not Allowed."
+msgstr "Méthode non autorisée."
+
+#: error.php:32
+msgid "Not Acceptable."
+msgstr "Pas acceptable."
+
+#: error.php:37
+msgid "Proxy Authentication Required."
+msgstr "Authentification proxy requise."
+
+#: error.php:42
+msgid "Request Timeout."
+msgstr "Requête expirée."
+
+#: error.php:47
+msgid "Conflict."
+msgstr "Conflit."
+
+#: error.php:52
+msgid "Gone."
+msgstr "Parti."
+
+#: error.php:57
+msgid "Unsuppored Media Type."
+msgstr "Type de média non supporté."
+
+#: error.php:62
+msgid "Requested Range Not Satisfiable."
+msgstr "Impossible de répondre à la requête."
+
+#: error.php:67
+msgid "Expectation Failed."
+msgstr "Erreur."
+
+#: error.php:72
+msgid "I'm a teapot."
+msgstr "Je suis une théière."
+
+#: error.php:77
+msgid "No Response.<br />In The Age Of Social No Response Is Not An Option."
+msgstr "Aucune réponse."
+
+#: error.php:82
+msgid "Internal Server Error."
+msgstr "Erreur interne."
+
+#: error.php:87
+msgid "Not Implemented."
+msgstr "Pas implémenté."
+
+msgid ""
+"The server either does not recognize the request method, or it lacks the ability to fulfil the request."
+msgstr "Le serveur ne reconnaît pas la méthode de la requête, ou il ne peut y répondre."
+
+#: error.php:92
+msgid "Bad Gateway."
+msgstr "Mauvaise passerelle."
+
+#: error.php:97
+msgid "Service Unavailable."
+msgstr "Service indisponible."
+
+msgid ""
+"The server is currently unavailable (because it is overloaded or down for maintenance). Generally, "
+"this is a temporary state."
+msgstr "Le serveur est indisponible (surchargé ou en maintenance). Cet état est généralement temporaire."
+
+#: essay.php:27
+msgid "No published essay found"
+msgstr "Aucun essai publié"
+
+#: essays.php:9 essays.php:14
+msgid "View:"
+msgstr "Voir:"
+
+msgid "No published essays found"
+msgstr "Aucun essai publié"
+
+#: favorites.php:30
+msgid "No images or videos found"
+msgstr "Aucune image ni vidéo"
+
+#: index.php lightbox.php login.php:13
+msgid "Enter password"
+msgstr "Entrez le mot de passe"
+
+msgid "Go"
+msgstr "Aller"
+
+#: map.php:63
+msgid "See the picture"
+msgstr "Voir l'image"
+
+#: page.php:15
+msgid "No page found"
+msgstr "Aucune page trouvée"
+
+#: tags.php:15 inc/components/tags-cats-loop.html:20
+msgid "View everything in"
+msgstr "Voir tout dans"
+
+#: timeline.php:50 timeline.php:60
+msgid "new items"
+msgstr "nouveaux éléments"
+
+#: timeline.php:99
+msgid "No timeline data found."
+msgstr "Aucune information sur la timeline."
+
+#: inc/components/album_cover.html:10 inc/components/album_cover_text.html:8
+msgid " / In"
+msgstr "/ Dans"
+
+#: inc/components/footer.html:65 inc/components/footer_tiny.html:45
+msgid "on Facebook"
+msgstr "sur Facebook"
+
+#: inc/components/footer.html:67 inc/components/footer_tiny.html:47
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/components/footer.html:73
+msgid "on Instragram"
+msgstr "sur Instagram"
+
+#: inc/components/footer.html:75
+msgid "Instragram"
+msgstr "Instagram"
+
+#: inc/components/footer.html:82 inc/components/footer_tiny.html:61
+msgid "on Google+"
+msgstr "sur Google+"
+
+#: inc/components/footer.html:84 inc/components/footer_tiny.html:63
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/components/footer.html:90
+msgid "on 500px"
+msgstr "sur 500px"
+
+#: inc/components/footer.html:92
+msgid "500px"
+msgstr "500px"
+
+#: inc/components/footer.html:99 inc/components/footer_tiny.html:53
+msgid "on Twitter"
+msgstr "sur Twitter"
+
+#: inc/components/footer.html:101 inc/components/footer_tiny.html:55
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/components/footer.html:107
+msgid "on Pinterest"
+msgstr "sur Pinterest"
+
+#: inc/components/footer.html:109
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/components/footer.html:122
+msgid "image feed"
+msgstr "flux d'images"
+
+#: inc/components/loading_msg.html:4
+msgid "Loading..."
+msgstr "Chargement…"
+
+#: inc/components/next-prev.html:3
+msgid "[<-] Previous"
+msgstr "[<-] Précédent"
+
+msgid "Previous"
+msgstr "Précédent"
+
+#: inc/components/next-prev.html:8
+msgid "Next [->]"
+msgstr "Suivant [->]"
+
+msgid "Next"
+msgstr "Suivant"
+
+#: inc/components/picinfo.html:6
+msgid "View images with:"
+msgstr "Voir des images avec:"
+
+#: inc/components/picinfo.html:12
+msgid "Camera info"
+msgstr "Informations sur l'appareil"
+
+#: inc/components/picinfo.html:26
+msgid "Caption"
+msgstr "Titre"
+
+#: inc/components/picinfo.html:31
+msgid "Image info"
+msgstr "Informations sur l'image"
+
+#: inc/components/picinfo.html:33
+msgid "Name:"
+msgstr "Nom:"
+
+#: inc/components/picinfo.html:34
+msgid "Uploaded:"
+msgstr "Téléchargé:"
+
+#: inc/components/picinfo.html:35
+msgid "Captured:"
+msgstr "Enregistré:"
+
+#: inc/components/picinfo.html:37
+msgid "Also in:"
+msgstr "Aussi en:"
+
+#: inc/components/picinfo.html:39
+msgid "See more images from:"
+msgstr "Voir plus d’images de:"
+
+#: inc/components/picinfo.html:45
+msgid "Photographer:"
+msgstr "Photographe:"
+
+#: inc/components/picinfo.html:48
+msgid "License:"
+msgstr "Licence:"
+
+#: inc/components/picinfo.html:50
+msgid "Download:"
+msgstr "Télécharger:"
+
+#: inc/components/picinfo.html:50
+msgid "in"
+msgstr "dans"
+
+#: inc/components/share.html:3
+msgid "Share this on Facebook"
+msgstr "Partager sur Facebook"
+
+#: inc/components/share.html:6
+msgid "Tweet this!"
+msgstr "Twitter ceci!"
+
+#: inc/components/share.html:9
+msgid "Share on Tumblr!"
+msgstr "Partager sur Tumblr!"
+
+#: inc/components/share.html:12
+msgid "Share on Google Plus!"
+msgstr "Partager sur Google Plus!"
+
+#: inc/components/tags-cats-loop.html:9
+msgid "View everything tagged with"
+msgstr "Voir tout taggué avec"
+
+#: content.php:12
+msgid "in fullscreen [F]"
+msgstr "en plein-écran [F]"
+
+#: lightbox.php:44
+msgid "Close"
+msgstr "Fermer"
+
+#: lightbox:44
+msgid "X"
+msgstr "X"
+
+#: lightbox:51 lightbox:53
+msgid "Back [ESC]"
+msgstr "Retour [ESC]"
+
+#: lightbox.php:55
+msgid "Start slideshow"
+msgstr "Démarrer la présentation"
+
+#: lightbox.php:59
+msgid "Pause"
+msgstr "Pause"
+
+#: lightbox:71
+msgid "Share"
+msgstr "Partager"
