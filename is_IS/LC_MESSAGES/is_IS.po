@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-10-11 00:15+0200\n"
-"PO-Revision-Date: 2015-10-11 00:34+0200\n"
+"PO-Revision-Date: 2015-10-11 15:00+0200\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -11,7 +11,7 @@ msgstr ""
 "X-Poedit-Basepath: ../../..\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-KeywordsList: _\n"
-"Last-Translator: Grimur Gudmundsson <grimurnet@gmail.com>\n"
+"Last-Translator: Bjarne Varöystrand <black.skorpio+github@gmail.com>\n"
 "Language: is_IS\n"
 "X-Poedit-SearchPath-0: .\n"
 
@@ -71,9 +71,7 @@ msgstr "forsíða"
 
 #: error.php:17
 msgid "You are trying to access a page your not allowed to: shame on you!"
-msgstr ""
-"Þú ert að reyna að fá aðgang að síðu sem þú ert ekki með leyfi til að skoða: "
-"Skammastu þín!"
+msgstr "Þú ert að reyna að fá aðgang að síðu sem þú ert ekki með leyfi til að skoða: Skammastu þín!"
 
 #: error.php:22
 msgid "Page not found."
@@ -131,12 +129,8 @@ msgstr "Innri villa á þjóni."
 msgid "Not Implemented."
 msgstr "Ekki innleitt"
 
-msgid ""
-"The server either does not recognize the request method, or it lacks the "
-"ability to fulfil the request."
-msgstr ""
-"Annaðhvort viðurkennir þjónninn ekki beiðnina, eða það skortir getu til að "
-"uppfylla beiðnina."
+msgid "The server either does not recognize the request method, or it lacks the ability to fulfil the request."
+msgstr "Annaðhvort viðurkennir þjónninn ekki beiðnina, eða það skortir getu til að uppfylla beiðnina."
 
 #: error.php:92
 msgid "Bad Gateway."
@@ -146,12 +140,8 @@ msgstr "Gateway Fatlaðir."
 msgid "Service Unavailable."
 msgstr "Þjónusta ekki tiltæk."
 
-msgid ""
-"The server is currently unavailable (because it is overloaded or down for "
-"maintenance). Generally, this is a temporary state."
-msgstr ""
-"Í augnablikinu er þjónninn ekki tiltækur (vegna þess að það er of mikið álag "
-"eða vegna viðhalds). Venjuleg er þetta tímabundið ástand."
+msgid "The server is currently unavailable (because it is overloaded or down for maintenance). Generally, this is a temporary state."
+msgstr "Í augnablikinu er þjónninn ekki tiltækur (vegna þess að það er of mikið álag eða vegna viðhalds). Venjuleg er þetta tímabundið ástand."
 
 #: essay.php:27
 msgid "No published essay found"
@@ -249,7 +239,7 @@ msgstr "Pinterest"
 
 #: inc/components/footer.html:122
 msgid "image feed"
-msgstr ""
+msgstr "myndastraumur"
 
 #: inc/components/loading_msg.html:4
 msgid "Loading..."
