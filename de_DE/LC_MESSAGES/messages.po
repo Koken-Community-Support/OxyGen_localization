@@ -1,32 +1,32 @@
+#
+# Translators:
+# Gerd Rösser <gerdroesser@mac.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: OxyGen\n"
 "POT-Creation-Date: 2015-09-27 13:23+0200\n"
-"PO-Revision-Date: 2015-10-08 12:16+0200\n"
+"PO-Revision-Date: 2015-10-14 14:43+0200\n"
 "Last-Translator: Bjarne Varöystrand <black.skorpio+github@gmail.com>\n"
-"Language-Team: \n"
-"Language: de_DE\n"
+"Language-Team: German (http://www.transifex.com/koken-community-support/OxyGen_localization/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 1.8.4\n"
 "X-Poedit-Basepath: ../../..\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-KeywordsList: _\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: album.php:15 content.php:12 contents.php:18 favorites.php:15 timeline.php:56
-#: timeline.php:68 timeline.php:46 inc/components/cat-tag-event-layout.html:38
+#: album.php:15 content.php:12 contents.php:18 favorites.php:15 timeline.php:56 timeline.php:68 timeline.php:46 inc/components/cat-tag-event-layout.html:38
 msgid "View"
-msgstr ""
+msgstr "Ansicht:"
 
 #: album.php:35 tag.php:24
 msgid "No album data found"
 msgstr "Kein Fotoalbum gefunden"
 
-#: albums.php:8 sets.php:8 timeline.php:21 timeline.php:30 timeline.php:83
-#: inc/components/cat-tag-event-layout.html:5
-#: inc/components/cat-tag-event-layout.html:16
+#: albums.php:8 sets.php:8 timeline.php:21 timeline.php:30 timeline.php:83 inc/components/cat-tag-event-layout.html:5 inc/components/cat-tag-event-layout.html:16
 #: inc/components/cat-tag-event-layout.html:24
 msgid "View the"
 msgstr "Ansicht der"
@@ -37,11 +37,11 @@ msgstr "Keine öffentlichen Alben gefunden"
 
 #: categories.php:5
 msgid "Browse by"
-msgstr "Suchen nach..."
+msgstr "Durchsuchen nach"
 
 #: categories.php:15
 msgid "Browse everything in"
-msgstr "Stöbern Sie alles in"
+msgstr "Alles durchsuchen in"
 
 #: categories.php:26 tags.php:26
 msgid "No tags found."
@@ -49,7 +49,7 @@ msgstr "Keine Tags gefunden."
 
 #: category.php:7 tag.php:4 tag.php:10
 msgid "Browsing"
-msgstr "Browsing"
+msgstr "Stöbern"
 
 #: content.php:44
 msgid "No image or video found"
@@ -59,27 +59,27 @@ msgstr "Kein Bild oder Video gefunden"
 msgid "No images or video found"
 msgstr "Keine Bilder oder Video gefunden"
 
-#: error.php:
+#: error.php
 msgid "Error:"
 msgstr "Fehler:"
 
 msgid "Please head back to the"
-msgstr "Bitte Kopf zurück zu der"
+msgstr "Bitte kehren Sie zurück zu"
 
 msgid "front page"
 msgstr "Startseite"
 
 #: error.php:17
 msgid "You are trying to access a page your not allowed to: shame on you!"
-msgstr "Sie versuchen auf eine Seite zuzugreifen, Ihr nicht erlaubt: schäm dich!"
+msgstr "Sie versuchen, auf eine unerlaubte Seite zuzugreifen: Schämen Sie sich!"
 
 #: error.php:22
 msgid "Page not found."
-msgstr "Pagina niet gevonden"
+msgstr "Seite nicht gefunden."
 
 #: error.php:27
 msgid "Method Not Allowed."
-msgstr "Angeforderte Methode nicht erlaubt."
+msgstr "Methode nicht erlaubt."
 
 #: error.php:32
 msgid "Not Acceptable."
@@ -91,27 +91,27 @@ msgstr "Proxyauthentifizierung erforderlich."
 
 #: error.php:42
 msgid "Request Timeout."
-msgstr "Fordern Sie Timeout."
+msgstr "Timeout Anforderung"
 
 #: error.php:47
 msgid "Conflict."
-msgstr "Konflikte."
+msgstr "Konflikt"
 
 #: error.php:52
 msgid "Gone."
-msgstr "Gegangen."
+msgstr "Beendet.."
 
 #: error.php:57
 msgid "Unsuppored Media Type."
-msgstr "Unsuppored-Medientyp."
+msgstr "Nicht unterstützter Medientyp."
 
 #: error.php:62
 msgid "Requested Range Not Satisfiable."
-msgstr "Bat Bereich nicht eingehalten werden."
+msgstr "Gewünschter Bereich kann nicht eingehalten werden."
 
 #: error.php:67
 msgid "Expectation Failed."
-msgstr "Erwartung ist fehlgeschlagen."
+msgstr "Erwartung fehlgeschlagen"
 
 #: error.php:72
 msgid "I'm a teapot."
@@ -127,7 +127,7 @@ msgstr "Interner Serverfehler"
 
 #: error.php:87
 msgid "Not Implemented."
-msgstr "Nicht realisiert"
+msgstr "Nicht implementiert."
 
 msgid "The server either does not recognize the request method, or it lacks the ability to fulfil the request."
 msgstr "Der Server erkennt entweder nicht die Anforderungsmethode, oder es fehlt die Möglichkeit, die Anforderung zu erfüllen."
@@ -141,29 +141,29 @@ msgid "Service Unavailable."
 msgstr "Service nicht verfügbar"
 
 msgid "The server is currently unavailable (because it is overloaded or down for maintenance). Generally, this is a temporary state."
-msgstr "Der Server ist derzeit nicht verfügbar (weil es ist überlastet oder Wartungszwecken down). Im Allgemeinen ist dies ein vorübergehender Zustand."
+msgstr "Der Server ist derzeit nicht verfügbar (weil es ist überlastet oder Wartungszwecken heruntergefahren). Im Allgemeinen ist dies ein vorübergehender Zustand."
 
 #: essay.php:27
 msgid "No published essay found"
-msgstr "Keine veröffentlichten Essay gefunden"
+msgstr "Kein veröffentlichtes Essay gefunden"
 
 #: essays.php:9 essays.php:14
 msgid "View:"
 msgstr "Ansicht:"
 
 msgid "No published essays found"
-msgstr "Keine veröffentlichten Aufsätze gefunden"
+msgstr "Keine veröffentlichten Essays gefunden"
 
 #: favorites.php:30
 msgid "No images or videos found"
 msgstr "Keine Bilder oder Videos gefunden"
 
-#: index.php: lightbox.php: login.php:13
+#: index.php lightbox.php login.php:13
 msgid "Enter password"
 msgstr "Passwort eingeben"
 
 msgid "Go"
-msgstr "Gehn"
+msgstr "Verlassen"
 
 #: map.php:63
 msgid "See the picture"
@@ -171,11 +171,11 @@ msgstr "Siehe Bild"
 
 #: page.php:15
 msgid "No page found"
-msgstr "Pagina niet gevonden"
+msgstr "Keine Seite gefunden."
 
 #: tags.php:15 inc/components/tags-cats-loop.html:20
 msgid "View everything in"
-msgstr "Alles anzeigen"
+msgstr "Alles anzeigen in"
 
 #: timeline.php:50 timeline.php:60
 msgid "new items"
@@ -239,7 +239,7 @@ msgstr "Pinterest"
 
 #: inc/components/footer.html:122
 msgid "image feed"
-msgstr "Bild-feed"
+msgstr "Bild Feed"
 
 #: inc/components/loading_msg.html:4
 msgid "Loading..."
@@ -247,25 +247,25 @@ msgstr "Lade..."
 
 #: inc/components/next-prev.html:3
 msgid "[<-] Previous"
-msgstr ""
+msgstr "[<-] Zurück"
 
 msgid "Previous"
-msgstr ""
+msgstr "Zurück"
 
 #: inc/components/next-prev.html:8
 msgid "Next [->]"
-msgstr ""
+msgstr "Weiter [->]"
 
 msgid "Next"
-msgstr ""
+msgstr "Weiter"
 
 #: inc/components/picinfo.html:6
 msgid "View images with:"
-msgstr "Bilder anschauen"
+msgstr "Bilder anschauen mit:"
 
 #: inc/components/picinfo.html:12
 msgid "Camera info"
-msgstr "Kamera-info"
+msgstr "Kamera Info"
 
 #: inc/components/picinfo.html:26
 msgid "Caption"
@@ -289,15 +289,15 @@ msgstr "Erfasst:"
 
 #: inc/components/picinfo.html:37
 msgid "Also in:"
-msgstr "También en:"
+msgstr "Auch in:"
 
 #: inc/components/picinfo.html:39
 msgid "See more images from:"
-msgstr "weitere Galerie Bilder hochladen"
+msgstr "Weitere Bilder anschauen aus:"
 
 #: inc/components/picinfo.html:45
 msgid "Photographer:"
-msgstr "Photographer:"
+msgstr "Fotograf:"
 
 #: inc/components/picinfo.html:48
 msgid "License:"
@@ -329,32 +329,32 @@ msgstr "Auf Google Plus teilen"
 
 #: inc/components/tags-cats-loop.html:9
 msgid "View everything tagged with"
-msgstr ""
+msgstr "Alles anschauen mit dem Stichwort"
 
 #: content.php:12
 msgid "in fullscreen [F]"
-msgstr ""
+msgstr "Auf Bilschirmgröße [F]"
 
 #: lightbox.php:44
 msgid "Close"
-msgstr ""
+msgstr "Schließen"
 
 #: lightbox:44
 msgid "X"
-msgstr ""
+msgstr "X"
 
 #: lightbox:51 lightbox:53
 msgid "Back [ESC]"
-msgstr ""
+msgstr "Zurück [ESC]"
 
 #: lightbox.php:55
 msgid "Start slideshow"
-msgstr ""
+msgstr "Diashow starten"
 
 #: lightbox.php:59
 msgid "Pause"
-msgstr ""
+msgstr "Pause"
 
 #: lightbox:71
 msgid "Share"
-msgstr ""
+msgstr "Teilen"
